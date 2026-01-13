@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eddy's Blog</title><link>https://blog.eddycheng.online</link><description>我本可以忍受黑暗，如果我不曾见过太阳。</description><copyright>Eddy's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://knowledgeimg.eddycheng.online/img/2026/01/20200601213915</url><title>avatar</title><link>https://blog.eddycheng.online</link></image><lastBuildDate>Sat, 03 Jan 2026 07:13:10 +0000</lastBuildDate><managingEditor>Eddy's Blog</managingEditor><ttl>60</ttl><webMaster>Eddy's Blog</webMaster><item><title>我们上网都在看些什么？</title><link>https://blog.eddycheng.online/post/wo-men-shang-wang-du-zai-kan-xie-shen-me-%EF%BC%9F.html</link><description>![](https://knowledgeimg.eddycheng.online/img/2026/01/20260101171125581)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eddy's Blog</title><link>https://blog.eddycheng.online</link><description>我本可以忍受黑暗，如果我不曾见过太阳。</description><copyright>Eddy's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://knowledgeimg.eddycheng.online/img/2026/01/20200601213915</url><title>avatar</title><link>https://blog.eddycheng.online</link></image><lastBuildDate>Tue, 13 Jan 2026 03:45:31 +0000</lastBuildDate><managingEditor>Eddy's Blog</managingEditor><ttl>60</ttl><webMaster>Eddy's Blog</webMaster><item><title>Windows 11的移动热点显示无法启动怎么办？</title><link>https://blog.eddycheng.online/post/Windows%2011-de-yi-dong-re-dian-xian-shi-wu-fa-qi-dong-zen-me-ban-%EF%BC%9F.html</link><description>启动热点后显示如下内容：
+
+![](https://knowledgeimg.eddycheng.online/img/2026/01/ScreenShot_2026-01-13_110726_868.{ext})
+
+修复方法：
+
+&gt; * 右键点击此电脑
+&gt; * 选择管理
+&gt; * 点击设备管理器
+&gt; * 将下面关于无线网络的设备全部启动即可
+
+![](https://knowledgeimg.eddycheng.online/img/2026/01/ScreenShot_2026-01-13_110451_228.{ext})。</description><guid isPermaLink="true">https://blog.eddycheng.online/post/Windows%2011-de-yi-dong-re-dian-xian-shi-wu-fa-qi-dong-zen-me-ban-%EF%BC%9F.html</guid><pubDate>Tue, 13 Jan 2026 03:45:01 +0000</pubDate></item><item><title>我们上网都在看些什么？</title><link>https://blog.eddycheng.online/post/wo-men-shang-wang-du-zai-kan-xie-shen-me-%EF%BC%9F.html</link><description>![](https://knowledgeimg.eddycheng.online/img/2026/01/20260101171125581)
 
 在这个纷扰的世界里，怎样才能找到属于自己的那份净土？
 
