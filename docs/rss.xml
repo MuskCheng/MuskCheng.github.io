@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eddy's Blog</title><link>https://blog.eddycheng.online</link><description>我本可以忍受黑暗，如果我不曾见过太阳。</description><copyright>Eddy's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://knowledgeimg.eddycheng.online/img/2026/01/20200601213915</url><title>avatar</title><link>https://blog.eddycheng.online</link></image><lastBuildDate>Thu, 22 Jan 2026 09:50:08 +0000</lastBuildDate><managingEditor>Eddy's Blog</managingEditor><ttl>60</ttl><webMaster>Eddy's Blog</webMaster><item><title>修复自装小米电脑管家摄像头弹窗问题</title><link>https://blog.eddycheng.online/post/xiu-fu-zi-zhuang-xiao-mi-dian-nao-guan-jia-she-xiang-tou-dan-chuang-wen-ti.html</link><description># 前言
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Eddy's Blog</title><link>https://blog.eddycheng.online</link><description>我本可以忍受黑暗，如果我不曾见过太阳。</description><copyright>Eddy's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://knowledgeimg.eddycheng.online/img/2026/01/20200601213915</url><title>avatar</title><link>https://blog.eddycheng.online</link></image><lastBuildDate>Thu, 29 Jan 2026 06:14:24 +0000</lastBuildDate><managingEditor>Eddy's Blog</managingEditor><ttl>60</ttl><webMaster>Eddy's Blog</webMaster><item><title>Typora使用一段时间后启动无响应的解决方案</title><link>https://blog.eddycheng.online/post/Typora-shi-yong-yi-duan-shi-jian-hou-qi-dong-wu-xiang-ying-de-jie-jue-fang-an.html</link><description>1. Win+R打开运行窗口，输入regedit，回车，启动注册表编辑器
+2. 按以下路径
+
+```
+计算机\HKEY_CURRENT_USER\Software\Typora
+```
+
+* 点击右键，选择权限
+
+![](https://knowledgeimg.eddycheng.online/img/2026/01/20260129140649920.png)
+
+* 在组或用户名处找到并选中Administrator，完全控制处勾选拒绝即可
+
+![](https://knowledgeimg.eddycheng.online/img/2026/01/20260129141124937.png)。</description><guid isPermaLink="true">https://blog.eddycheng.online/post/Typora-shi-yong-yi-duan-shi-jian-hou-qi-dong-wu-xiang-ying-de-jie-jue-fang-an.html</guid><pubDate>Thu, 29 Jan 2026 06:14:00 +0000</pubDate></item><item><title>修复自装小米电脑管家摄像头弹窗问题</title><link>https://blog.eddycheng.online/post/xiu-fu-zi-zhuang-xiao-mi-dian-nao-guan-jia-she-xiang-tou-dan-chuang-wen-ti.html</link><description># 前言
 
 非小米笔记本自行安装小米电脑管家后因为摄像头驱动问题，每次启动的时候都会弹出“请确认摄像头状态”的弹窗，虽然不影响什么，但是很烦人。</description><guid isPermaLink="true">https://blog.eddycheng.online/post/xiu-fu-zi-zhuang-xiao-mi-dian-nao-guan-jia-she-xiang-tou-dan-chuang-wen-ti.html</guid><pubDate>Thu, 22 Jan 2026 09:49:40 +0000</pubDate></item><item><title>Windows 11的移动热点显示无法启动怎么办？</title><link>https://blog.eddycheng.online/post/Windows%2011-de-yi-dong-re-dian-xian-shi-wu-fa-qi-dong-zen-me-ban-%EF%BC%9F.html</link><description>启动热点后显示如下内容：
 
